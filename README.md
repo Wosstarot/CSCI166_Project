@@ -3,7 +3,8 @@
 ### River Raid
 
 Colab Notebook Link: https://colab.research.google.com/drive/1DDtTKWgPdoD2O7MOYLwEW0UMtWwM9huC?usp=sharing
-DQN Starter Code:    https://github.com/everestso/summer25/blob/main/c166f25_02b_dqn_pong.ipynb
+
+DQN Starter Code: https://github.com/everestso/summer25/blob/main/c166f25_02b_dqn_pong.ipynb
 
 | Model Training | Thumbnail | Videos |
 |:-----|:------:|------:|
