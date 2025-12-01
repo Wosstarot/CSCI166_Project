@@ -2,6 +2,8 @@
 
 ### River Raid
 
+Colab Notebook Link: https://colab.research.google.com/drive/1DDtTKWgPdoD2O7MOYLwEW0UMtWwM9huC?usp=sharing
+
 | Model Training | Thumbnail | Videos |
 |:-----|:------:|------:|
 | Baseline    |   <img src="thumbnail_early.png" alt="Demo thumbnail" width="30%"> | <a href="https://wosstarot.github.io/riverraidTrained-baseline_nohyp.mp4" target="_blank">▶ Watch Video</a>  |
