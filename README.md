@@ -11,5 +11,5 @@
 | Double+Dueling DQN w/ epsilon decay       | | | 
 | Double+Dueling DQN w/ replay size & replay start | | |
 | Double+Dueling DQN w/ learning rate | | |
-| Double+Dueling DQN w/ target_sync | | |
-| Baseline           w/ all previous hyperparameters | | |
+| Double+Dueling DQN w/ target_sync | |  <a href="riverraidTrained_DDQN+Dueling_AllHypTuned.mp4" target="_blank">▶ Watch Video</a> |
+| Baseline           w/ all previous hyperparameters | | <a href="riverraidTrained_Baseline_AllHypTuned.mp4" target="_blank">▶ Watch Video</a> |
