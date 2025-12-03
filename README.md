@@ -9,12 +9,12 @@ DQN Starter Code: https://github.com/everestso/summer25/blob/main/c166f25_02b_dq
 | Model Training | Thumbnail | Early/Randomized Videos | Late Videos |
 |:-----|:------:|------:|
 | Baseline    | | <a href="https://wosstarot.github.io/riverraidRandom--episode-0.mp4" target="_blank">▶ Randomized</a> | <a href="https://wosstarot.github.io/riverraidRandom--episode-0.mp4" target="_blank">▶ Early</a> |   <img src="thumbnail_baseline_nohyp.jpg" alt="Demo thumbnail" width="30%"> | <a href="https://wosstarot.github.io/riverraidTrained-baseline_nohyp.mp4" target="_blank">▶ Watch Video</a>  |
-| Double    |   <img src="thumbnail_late.png" alt="Demo thumbnail" width="30%"> |   |
-| Double w/Epsilon=0.       | | <a href="https://wosstarot.github.io/riverraidTrained-DDQN_FinalEpsilon (6).mp4" target="_blank">▶ Watch Video</a>  |
-| Double+Dueling DQN (No Hyperparameters)        | | <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_nohyp.mp4" target="_blank">▶ Watch Video</a>  |
-| Double+Dueling DQN w/ epsilon decay       | | <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_epsilondecay_test01-episode-0.mp4" target="_blank">▶ Watch Video</a> | 
-| Double+Dueling DQN w/ replay size & replay start | |   |
-| Double+Dueling DQN w/ learning rate | | <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_learning_rate+buffersize+start_test04_best-episode-0 (5).mp4" target="_blank">▶ Watch Video</a> |
-| Double+Dueling DQN w/ target_sync | |  <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_AllHypTuned.mp4" target="_blank">▶ Watch Video</a> |
-| Baseline           w/ all previous hyperparameters | | <a href="https://wosstarot.github.io/riverraidTrained_Baseline_AllHypTuned.mp4" target="_blank">▶ Watch Video</a> |
+| Double    |   <img src="thumbnail_late.png" alt="Demo thumbnail" width="30%"> | |   |
+| Double w/Epsilon=0.       | | | <a href="https://wosstarot.github.io/riverraidTrained-DDQN_FinalEpsilon (6).mp4" target="_blank">▶ Watch Video</a>  |
+| Double+Dueling DQN (No Hyperparameters)      |  | | <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_nohyp.mp4" target="_blank">▶ Watch Video</a>  |
+| Double+Dueling DQN w/ epsilon decay      | | | <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_epsilondecay_test01-episode-0.mp4" target="_blank">▶ Watch Video</a> | 
+| Double+Dueling DQN w/ replay size & replay start | |   | |
+| Double+Dueling DQN w/ learning rate | | | <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_learning_rate+buffersize+start_test04_best-episode-0 (5).mp4" target="_blank">▶ Watch Video</a> |
+| Double+Dueling DQN w/ target_sync | | |  <a href="https://wosstarot.github.io/riverraidTrained_DDQN+Dueling_AllHypTuned.mp4" target="_blank">▶ Watch Video</a> |
+| Baseline           w/ all previous hyperparameters | | | <a href="https://wosstarot.github.io/riverraidTrained_Baseline_AllHypTuned.mp4" target="_blank">▶ Watch Video</a> |
 
